@@ -2,19 +2,24 @@ import { defineConfig } from "vitepress";
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "RAION ACADEMY 2024",
+  title: "RAION INTERNSHIP 2026",
   description: "Introduction to Kotlin and Jetpack Compose.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "Home", link: "/" },
-      { text: "Additional Resources", link: "https://adhesive-eggnog-eca.notion.site/Kotlin-Fundamental-16b2b31e67b447209bc53c8095e363e0" },
+      { text: "Additional Resources",
+        link: "https://adhesive-eggnog-eca.notion.site/Kotlin-Fundamental-16b2b31e67b447209bc53c8095e363e0" },
     ],
 
     sidebar: [
       {
         text: "Instalasi Android Studio 📱",
         link: "https://raion-academy-2024.vercel.app/src/0_instalasi_android_studio",
+      },
+      {
+        text: "Instalasi Framework Compose 📱",
+        link: "",
       },
       {
         text: "Pengenalan Kotlin 💜",

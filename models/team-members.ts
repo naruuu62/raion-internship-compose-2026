@@ -1,22 +1,22 @@
-export const members = [
+export const leadCoLead = [
   {
-    avatar: "https://media.licdn.com/dms/image/v2/D5603AQEJh9hkdPIJng/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1729226198615?e=1735776000&v=beta&t=830SmCODrWh3fUyUBzLX7LiDBtcacE-l7dGNCEbAL3E",
-    name: "Elgin Brian Wahyu Bramadhika",
-    title: "TI'23",
+    avatar: "/images/leadcolead/hery.jpeg",
+    name: "Alvianto Hery Sarborn",
+    title: "TI'24",
     links: [
-      { icon: "github", link: "https://github.com/elginbrian" },
-      { icon: "linkedin", link: "https://www.linkedin.com/in/elginbrian/" },
-      { icon: "instagram", link: "https://www.instagram.com/_elginbrian/" },
+      { icon: "github", link: "https://github.com/alHerys" },
+      { icon: "linkedin", link: "https://www.linkedin.com/in/alvianto-hery-sarborn/" },
+      { icon: "instagram", link: "https://www.instagram.com/al.hery_s/" },
     ],
   },
   {
-    avatar: "https://media.licdn.com/dms/image/v2/D5603AQGUrGnzekR_uA/profile-displayphoto-shrink_400_400/profile-displayphoto-shrink_400_400/0/1727095104584?e=1735776000&v=beta&t=sYvekb_zyzqaYjgPLDba02zRydg7UzR5XKbE8oGI1Ls",
-    name: "Samuel Alfito Deanova",
-    title: "TIF'23",
+    avatar: "/images/leadcolead/tian.jpeg",
+    name: "Septian Nuril Arifin",
+    title: "TI'24",
     links: [
-      { icon: "github", link: "https://github.com/Meouz" },
-      { icon: "linkedin", link: "https://www.linkedin.com/in/samuel-alfito/" },
-      { icon: "instagram", link: "https://www.instagram.com/samuel.alfito/" },
+      { icon: "github", link: "https://github.com/naruuu62" },
+      { icon: "linkedin", link: "https://www.linkedin.com/in/septian-nuril-arifin-b25298322/" },
+      { icon: "instagram", link: "https://www.instagram.com/spnaru/" },
     ],
   },
 ];

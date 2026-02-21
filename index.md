@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "RAION ACADEMY\n2024 🦁"
+  name: "RAION INTERNSHIP\n2026 🦁"
   text: ""
   tagline: Mobile Development Learning Path.
   actions:
@@ -48,52 +48,6 @@ features:
     details: MVVM, atau Model-View-ViewModel, adalah pola arsitektur yang dirancang untuk memisahkan logika bisnis dari antarmuka pengguna (UI).
     link: ./src/5_pengenalan_mvvm/a_pengertian
 ---
-
-<br>
-
-::: tip FINAL PROJECT 🌟
-Selamat datang di tahap akhir perjalanan Raion Academy! Di sini, kamu akan menemukan ketentuan dari mengerjakan project akhirmu. Pastikan kamu membaca persyaratannya dengan teliti dan jangan lupa mengumpulkan proyekmu tepat waktu, ya!
-:::
-
-::: details Ketentuan Final Project 📄
-
-### ShopEase🛍
-
-<br>
-
-##### Deskripsi
-
-Aplikasi belanja yang memudahkan pengguna untuk melihat produk yang tersedia.
-
-##### Latar Belakang
-
-Alex, seorang mahasiswa yang hobi belanja online, ingin aplikasi yang bisa membantu dia menemukan produk dengan mudah. Aplikasi ini harus menampilkan detail produk dan memiliki navigasi yang user-friendly. Tugas Anda adalah mengembangkan aplikasi **ShopEase** secara bertahap, di mana setiap level akan menambahkan fitur baru.
-
----
-
-### Milestone
-
-<br>
-
-##### Level 1: Layout Sederhana (Easy)
-
-- **Kasus** : Alex ingin melihat daftar produk dengan tampilan yang menarik.
-- **Tugas** : Buat halaman awal aplikasi yang sederhana dengan nama `HomeScreen`, yang hanya menampilkan nama dan gambar produk tanpa interaksi apapun.
-- **Video** : [Klik disini untuk melihat video](https://drive.google.com/file/d/1MDofEjpawrBx1pJn_QNr-bqUx3JIejdM/view?usp=sharing)
-
-##### Level 2: State Management (Medium)
-
-- **Kasus** : Setelah melihat daftar produk, Alex ingin bisa menambahkan produk ke dalam keranjang belanja.
-- **Tugas** : Tambahkan `state management` untuk mengelola jumlah produk yang ditambahkan ke keranjang, sehingga pengalaman belanja jadi lebih interaktif.
-- **Video** : [Klik disini untuk melihat video](https://drive.google.com/file/d/1f_PC5KmbJU76I_stqbYhibs66qDreKwk/view?usp=sharing)
-
-##### Level 3: Navigasi Antar Layar (Hard)
-
-- **Kasus** : Alex ingin tahu lebih banyak tentang produk yang menarik perhatiannya.
-- **Tugas** : Buat `DetailScreen` produk yang menunjukkan informasi lengkap dan tambahkan navigasi antara `HomeScreen` dan `DetailScreen`.
-- **Video** : [Klik disini untuk melihat video](https://drive.google.com/file/d/1-JFzyE7FKUNllGy8NFANzNeKWW2khPED/view?usp=sharing)
-
-:::
 
 ## Explore Lebih Lanjut! 📺
 
