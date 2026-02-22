@@ -85,7 +85,8 @@ Meet the incredible team that made this module possible. Feel free to reach out 
 
 <script setup>
 import { VPTeamMembers } from 'vitepress/theme'
-import { members } from './models/team-members.ts'
+// Import 'leadCoLead' dan gunakan di template
+import { leadCoLead } from './models/team-members' 
 </script>
 
-<VPTeamMembers size="medium" :members="members" />
+<VPTeamMembers size="medium" :members="leadCoLead" />
