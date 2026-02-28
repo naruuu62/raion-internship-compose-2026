@@ -68,6 +68,23 @@ export default defineConfig({
           { text: "Dependency Injection", link: "/src/5_pengenalan_mvvm/e_di" },
         ],
       },
+      {
+        text: "Pengenalan Debugging 🪢",
+        items: [
+          { text: "Pengertian Debugging", link: "/src/6_pengenalan_debugging/a_pengertian" },
+          { text: "Logcat", link: "/src/6_pengenalan_debugging/b_logcat" },
+        ],
+      },
+      {
+        text: "Pengenalan Supabase ⏹️",
+        items: [
+          { text: "Pengertian Supabase", link: "/src/7_pengenalan_supabase/a_setup" },
+          { text: "Autentikasi", link: "/src/7_pengenalan_supabase/b_autentikasi" },
+          { text: "Database", link: "/src/7_pengenalan_supabase/c_database" },
+          { text: "Storage", link: "/src/7_pengenalan_supabase/d_storage" },
+        ],
+      },
+      
     ],
 
     socialLinks: [

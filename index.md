@@ -47,6 +47,17 @@ features:
     title: Pengenalan MVVM
     details: MVVM, atau Model-View-ViewModel, adalah pola arsitektur yang dirancang untuk memisahkan logika bisnis dari antarmuka pengguna (UI).
     link: ./src/5_pengenalan_mvvm/a_pengertian
+
+  - icon: 🪢
+    title: Pengenalan Debugging
+    details: Dalam proses pembuatan aplikasi tentu sedikitnya akan mengalami error, melalui debugging kita bisa mengecek letak kesalahan tersebut untuk kemudian diperbaiki
+    link: ./src/6_pengenalan_debugging/a_pengertian
+
+  - icon: ⏹️
+    title: Pengenalan Supabase
+    details: Supabase merupakan database noSQL yang dapat digunakan untuk menyimpan data mulai dari autentikasi, gambar/video, dan berbagai tipe data
+    link: ./src/7_pengenalan_supabase/a_setup
+
 ---
 
 ## Explore Lebih Lanjut! 📺
@@ -57,6 +68,10 @@ features:
   <iframe width="300" height="170" src="https://www.youtube.com/embed/bOd3wO0uFr8" frameborder="0" allowfullscreen></iframe>
   <iframe width="300" height="170" src="https://www.youtube.com/embed/zCIfBbm06QM" frameborder="0" allowfullscreen></iframe>
   <iframe width="300" height="170" src="https://www.youtube.com/embed/ek682t-z2gQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/_iXUVJ6HTHU?si=0oYz9jsPOu6wZWHp" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/ZgYvexniGDA?si=VTX_JSrQ5acvtpld" frameborder="0" allowfullscreen></iframe>
+  <iframe width="300" height="170" src="https://www.youtube.com/embed/BqxI7ViS_-M?si=ruBrdtoQ_soo4Ega" frameborder="0" allowfullscreen></iframe>
+
 </div>
 
 <style>

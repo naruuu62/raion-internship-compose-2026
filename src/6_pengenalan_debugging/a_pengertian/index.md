@@ -1,3 +1,8 @@
+---
+next:
+  text: "Mengenal Logcat"
+  link: "../../b_logcat"
+---
 # Pengertian Debugging
 
 ## Debugging
